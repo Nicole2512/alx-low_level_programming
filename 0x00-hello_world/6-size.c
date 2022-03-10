@@ -1,9 +1,10 @@
 #include<stdio.h>
 /**
- * main - Prints the size of various types
+ * main - Prints the size of various types where it is compiled
  *
- * Retrun -Always 0
+ * Retrun - Always 0
  */
+
 int main(void)
 {
 	printf("Size of a char: %zu byte(s)\n", sizeof(char));
