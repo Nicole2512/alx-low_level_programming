@@ -2,14 +2,15 @@
 #include<time.h>
 #include<stdio.h>
 /**
- * main - Prints the last digit of a randomly generated 
- * 	  number and whether it is >5 ,<6 or 0.
+ * main - Prints the last digit of a randomly generated
+ *number and whether it is >5 ,<6 or 0.
  *
  * Return :Always 0
  */
 int main(void)
 {
 	int n;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 
@@ -21,7 +22,7 @@ int main(void)
 	else if ((n % 10) < 6 && (n % 10) != 0)
 	{
 		printf("Last digit of %d is %d and is less than 6 and not 0\n",
-				n, n%10);
+			n, n%10);
 	}
 	else 
 	{
