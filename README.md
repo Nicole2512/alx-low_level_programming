@@ -1,1 +1,15 @@
-Scripts for low level programming
+0x04-more_functions_nested_loops# Low Level Programming #
+This repository has beginner level, low level programing scripts. The scripts are written for the low leve programming track offerred by ALX.The specific project files are listed below.
+1. [0x00-hello_world](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x00-hello_world)
+2. [0x01-variables_if_else_while](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
+3. [0x02-functions_nested_loops](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x02-functions_nested_loops)
+4. [0x03-debugging](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x03-debugging)
+5. [0x04-more_functions_nested_loops](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops)
+6. [0x05-pointers_arrays_strings](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
+7. [0x06-pointers_arrays_strings](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
+8. [0x07-pointers_arrays_strings](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
+9. [0x08-recursion](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x08-recursion)
+10. [0x09-static_libraries](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x09-static_libraries)
+11. [0x0A-argc_argv](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x0A-argc_argv)
+12. [0x0B-malloc_free](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x0B-malloc_free)
+13. [0x0C-more_malloc_free](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x0C-more_malloc_free)
