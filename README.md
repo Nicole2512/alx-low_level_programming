@@ -21,3 +21,4 @@ This repository has beginner level, low level programing scripts. The scripts ar
 19. [0x13-more_singly_linked_lists](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists)
 20. [0x14-bit_manipulation](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x14-bit_manipulation)
 21. [0x15-file_io](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x15-file_io)
+22. [](https://github.com/Nicole2512/alx-low_level_programming/tree/master/0x1A-hash_tables)
